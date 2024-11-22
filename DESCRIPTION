@@ -10,3 +10,5 @@ Encoding: UTF-8
 LazyData: true
 Authors@R: 
     person("Fabian", "Schleich", "fabian.schleich@ki.se", role = "cre")
+URL: https://github.com/AMindOfMetalAndWheels/SchleichExam1Slide
+BugReports: https://github.com/AMindOfMetalAndWheels/SchleichExam1Slide/issues
