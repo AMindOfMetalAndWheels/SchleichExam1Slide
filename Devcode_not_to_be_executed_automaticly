@@ -1,0 +1,17 @@
+usethis::use_author(given = "Fabian", family = "Schleich", role = "cre", email = "fabian.schleich@ki.se")
+use_git()
+use_github()
+usethis::use_mit_license()
+usethis::use_package("ggplot2") ☐ Refer to functions with `ggplot2::fun()
+library(roxygen2)
+use_roxygen_md()
+use_r("threshold_func)
+use_r("binary_func")
+devtools::load_all()
+library(ggplot2)
+library(devtools)
+
+error messages:
+-Bro check your class with class() function, we need numerical values only here. Alsoc check your privilege when you already on it!
+-Oh my god, how about defining all argumetns before running the code? Just use "?" in front of the function to do see whats required.
+

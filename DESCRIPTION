@@ -1,14 +1,17 @@
 Package: SchleichExam1Slide
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Sliding window:An algorithm used on sequential data to smoothen it by first adding together series with a high increase and then taking the min value over a certain range. 
 Version: 0.1.0
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Description: Will hopefully be enough to pass the exam. Yes, the error massages need to be that funny. 
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Authors@R: 
     person("Fabian", "Schleich", "fabian.schleich@ki.se", role = "cre")
 URL: https://github.com/AMindOfMetalAndWheels/SchleichExam1Slide
 BugReports: https://github.com/AMindOfMetalAndWheels/SchleichExam1Slide/issues
+Imports: 
+    ggplot2
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
