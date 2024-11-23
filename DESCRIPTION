@@ -3,7 +3,7 @@ Type: Package
 Title: Sliding window:An algorithm used on sequential data to smoothen it by first adding together series with a high increase and then taking the min value over a certain range. 
 Version: 0.1.0
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: Will hopefully be enough to pass the exam. Yes, the error massages need to be that funny. 
+Description: Will hopefully be enough to pass the exam.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
@@ -12,6 +12,7 @@ Authors@R:
 URL: https://github.com/AMindOfMetalAndWheels/SchleichExam1Slide
 BugReports: https://github.com/AMindOfMetalAndWheels/SchleichExam1Slide/issues
 Imports: 
-    ggplot2
+    ggplot2,
+    utils
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2

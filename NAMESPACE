@@ -1,1 +1,5 @@
-exportPattern("^[[:alpha:]]+")
+export(euclidean)
+export(process_euclidean_data)
+export(plot_euclidean_results)
+export(binary_window)
+export(smooth_window)
